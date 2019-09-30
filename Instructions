@@ -1,0 +1,31 @@
+The app is build in ReactJs (React is  a Javascript Library). Download the folder and open windows power shell or make Git bash here and to run the application:npm start.
+I wanted to do this project with components and you can see it in the component file with Location.js / Map.Js / Main.Js and how it got into App.js even though it is not functional, but I left it as a comment because I can't share that state.The environment of code is  Visual Studio Code and commands for launching an app in react are provided by the terminal.
+
+The tasks and the purpose for this project were:
+Communication between tabs or windows
+Task description
+Our web application is to be extended by a communication between tabs or
+windows. This function is intended to make it possible to use the application on
+two screens.
+Develop a web application that supports the following behavior in addition to
+Figure 1:
+1. The application is opened twice in different tabs or windows:
+Tab1: http://localhost:3000/locations
+Tab2: http://localhost:3000/map
+2. By selecting a location in the left window, the corresponding image opens in the right
+window.
+3. It should work with the same-origin policy. So, stored data will only be available on the
+same origin (not CORS).
+
+Requirements
+Please fulfill the following implementation requirements:
+• The web application is to be implemented in ReactJS.
+• Based on the description above, the possibilities for the implementation should be
+evaluated. Figure 2 shows our first idea. But it doesn't have to be the most ideal
+solution.
+• The styling isn't important for us during this task - we are much more interested in the
+implementation of the function. Please follow the example in Figure 1. We have also
+provided you with two images of the locations for this purpose.
+• The compatibility with Internet Explorer is not necessary. ;-)
+• Document your code and create a readme file.
+
