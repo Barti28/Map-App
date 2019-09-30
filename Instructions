@@ -1,4 +1,4 @@
-The app is build in ReactJs (React is  a Javascript Library). Download the folder and open windows power shell or make Git bash here and to run the application:npm start.
+The app is build in ReactJs (React is  a Javascript Library). Download the folder and open windows power shell or make Git bash here and to run the application write:npm start.
 I wanted to do this project with components and you can see it in the component file with Location.js / Map.Js / Main.Js and how it got into App.js even though it is not functional, but I left it as a comment because I can't share that state.The environment of code is  Visual Studio Code and commands for launching an app in react are provided by the terminal.
 
 The tasks and the purpose for this project were:
